@@ -214,7 +214,6 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  enable: true
   #LinkLabel: Link
   ResearchGate: https://www.researchgate.net/profile/Weilun_Gao2
   BNUZ: https://zhuhai.bnu.edu.cn
