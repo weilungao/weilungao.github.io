@@ -1,7 +1,9 @@
 ---
 layout: page
 type: about
-category: People
+title: About us
+categories: People
+tags: Postdocs
 ---
 
 # Weilun Gao
