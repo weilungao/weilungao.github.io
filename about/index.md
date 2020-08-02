@@ -17,7 +17,7 @@ I am currently doing my postdoc in [Beijing Normal Unversity at Zhuhai](https://
 
 -Email: wl.gao@mail.bnu.edu.cn
 
-## Also see me at [ResearchGate](https://www.researchgate.net/profile/Weilun_Gao2)
+-Also see me at [ResearchGate](https://www.researchgate.net/profile/Weilun_Gao2)
 
 
 
