@@ -4,7 +4,7 @@ I am currently doing my postdoc in [Beijing Normal Unversity at Zhuhai](https://
 
 #Education
 
--Beijing Normal University, 2014-present, PhD, Environmental Science 
+-Beijing Normal University, 2014-2020, PhD, Environmental Science 
 
 -South China University of Technology, 2014, B.E., Hydraulic Engineering
 
