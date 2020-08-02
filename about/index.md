@@ -13,11 +13,11 @@ I am currently doing my postdoc in [Beijing Normal Unversity at Zhuhai](https://
 
 -South China University of Technology, 2014, B.E., Hydraulic Engineering
 
-## #Contact
+## Contact
 
 -Email: wl.gao@mail.bnu.edu.cn
 
-## #Also see me at [ResearchGate](https://www.researchgate.net/profile/Weilun_Gao2)
+## Also see me at [ResearchGate](https://www.researchgate.net/profile/Weilun_Gao2)
 
 
 
