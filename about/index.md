@@ -1,7 +1,5 @@
 ---
-layout: page
-type: about
-title: About us test
+title: About us
 categories: 
 - People
 ---
