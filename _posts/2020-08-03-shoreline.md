@@ -14,7 +14,7 @@ A example is given below.
 ...
 
 
-Citations:
+Citations:<br/>
 [Gao, W., D. Shao, Z. B. Wang, W. Nardin, P. Rajput, W. Yang, T. Sun and B. Cui (2019). 
 Long-Term Cumulative Effects of Intra-Annual Variability of Unsteady River Discharge on the Progradation of Delta Lobes: 
 A Modeling Perspective. Journal of Geophysical Research: Earth Surface, 124(4): 960-973.](https://doi.org/10.1029/2017JF004584) <br/>
