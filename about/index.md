@@ -1,5 +1,5 @@
 ---
-title: About us test
+title: About us
 categories: 
 - People
 ---
