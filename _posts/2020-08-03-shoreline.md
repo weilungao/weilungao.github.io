@@ -7,7 +7,7 @@ tags:
 - Matlab
 ---
 
-The Matlab code developed for extracting the shoreline in our JER-ES paper [(Gao et al., 2018)](https://doi.org/10.1029/2017JF004584) and GRL paper [(Gao et al., 2019)](https://doi.org/10.1029/2018GL080447), based on the numerical results of Delft3D simulations. The procedures follow those proposed in [Shaw et al. (2008)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008GL033963).
+The [Matlab code](https://github.com/weilungao/ShorelineExtraction) developed for extracting the shoreline in our JER-ES paper [(Gao et al., 2018)](https://doi.org/10.1029/2017JF004584) and GRL paper [(Gao et al., 2019)](https://doi.org/10.1029/2018GL080447), based on the numerical results of Delft3D simulations. The procedures follow those proposed in [Shaw et al. (2008)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008GL033963).
 
 A example is given below.
 ...
