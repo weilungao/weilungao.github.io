@@ -31,10 +31,10 @@
   .logo { display: none; }
 
   .site-title {
-    font-size: 30px;
+    font-size: 22px;
     font-weight: bolder;
 
-    @include mobile() { line-height: 40px; }
+    @include mobile() { line-height: 34px; }
   }
 }
 
