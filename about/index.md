@@ -1,5 +1,5 @@
 ---
-title: About us test12
+title: About us test
 categories: 
 - People
 ---
