@@ -17,7 +17,7 @@ I exported the numerical results of D3D in the Quickplot module of D3D. To avoid
 * Quickplot of D3D has lot of functions which I did not know before, however, I got familiar with thoes fuctions by firstly recording the Matlab code in the GUI of Quickplot.<br/>
 
 ## Extracting the shoreline
-Then I use the [Matlab code](https://github.com/weilungao/ShorelineExtraction) to extract the shoreline:<br/>
+Then I used the [Matlab code](https://github.com/weilungao/ShorelineExtraction) to extract the shoreline:<br/>
 
 1. Put the Matlab code and the numerical results of D3D in the same path<br/>
 2. Run the Matlab function *[shoreline](https://github.com/weilungao/ShorelineExtraction/blob/master/shoreline.m)* to get the shoreline<br/>
