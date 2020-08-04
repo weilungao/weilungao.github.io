@@ -23,7 +23,7 @@ Then I used the [Matlab code](https://github.com/weilungao/ShorelineExtraction) 
 2. Run the Matlab function *[shoreline](https://github.com/weilungao/ShorelineExtraction/blob/master/shoreline.m)* to get the shoreline<br/>
 
 Note:
-* I am sorry that the notes in the [Matlab code](https://github.com/weilungao/ShorelineExtraction) is currrently in Chinese, I will try to update.
+* The notes in the [Matlab code](https://github.com/weilungao/ShorelineExtraction) are currrently in Chinese, I will try to update.
 
 ## Results
 The extracted results are shown below: <br/>
