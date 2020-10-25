@@ -239,7 +239,8 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: https://i1.rgstatic.net/ii/profile.image/799514877243394-1567630609558_Q64/Weilun_Gao2.jpg
+avatar: /assets/images/people/WLG1.jpg
+# avatar: https://i1.rgstatic.net/ii/profile.image/799514877243394-1567630609558_Q64/Weilun_Gao2.jpg
 
 
 # Table Of Contents in the Sidebar
