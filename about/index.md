@@ -4,7 +4,7 @@ categories:
 - People
 ---
 
-![profile](https://i1.rgstatic.net/ii/profile.image/799514877243394-1567630609558_Q64/Weilun_Gao2.jpg)
+![profile](/assets/images/people/WLG2.jpg)
 # Weilun Gao
 ## Bio
 Dr. Gao obtained his Ph.D. in Beijing Normal University, Beijing, where he investigated the combined effects of human-induced variability of river discharges and wave conditions on the morphological evolution of river deltas. He is currently doing his postdoc at Beijing Normal University, Zhuhai, focusing on the research topic of ecogeomorphology. He use both sophisticated and simplified models to understand and explore the morphological evolution of river deltas at different spatiotemporal scales.
