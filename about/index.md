@@ -14,7 +14,7 @@ Dr. Gao obtained his Ph.D. in Beijing Normal University, Beijing, where he inves
 - South China University of Technology, 2014, B.E., Hydraulic Engineering
 
 ## Grants
--Fellowship of China Postdoctoral Science Foundation (Grant 2020M680438)
+- Fellowship of China Postdoctoral Science Foundation (Grant 2020M680438)
 
 ## Honors/Awards
 - Outstanding Presentation Award, Young Scientist Forum, China Association for Science and Technology, 2018, Jiyuan
