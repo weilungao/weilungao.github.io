@@ -8,13 +8,13 @@ tags:
 ---
 
 # Abstract
-The [Matlab code](https://github.com/weilungao/ShorelineExtraction) was developed for extracting the shoreline in our JGR-ES paper [(Gao et al., 2018)](https://doi.org/10.1029/2017JF004584) and GRL paper [(Gao et al., 2019)](https://doi.org/10.1029/2018GL080447), using the elevation results of Delft3D simulations. The procedures basically follow those proposed in [Shaw et al. (2008)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008GL033963).<br/>
+The [Matlab code](https://github.com/weilungao/ShorelineExtraction) was developed for extracting the shoreline in our JGR-ES paper [(Gao et al., 2019)](https://doi.org/10.1029/2017JF004584) and GRL paper [(Gao et al., 2018)](https://doi.org/10.1029/2018GL080447), using the elevation results of Delft3D simulations. The procedures basically follow those proposed in [Shaw et al. (2008)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008GL033963).<br/>
 
 # Example
 ## The numerical results of D3D
 I exported the numerical results of D3D in the Quickplot module of D3D. To avoid exporting the data manually, which takes a lot a time, I used a **[Matlab script](https://github.com/weilungao/ShorelineExtraction/blob/master/run_qp.m)** to export the data automatically. Then I split the "bulk" data (3 dimensions, 2 dimensions in space and 1 in time) into every single time step use a another [code](https://github.com/weilungao/ShorelineExtraction/blob/master/extract.m). Here is an example of the split [data](https://github.com/weilungao/ShorelineExtraction/blob/master/h396.mat) (2 dimensions in space), which I used for the further procedures.<br/>
 <br/>Note:
-* Quickplot of D3D has lot of functions which I did not know before, however, I got familiar with thoes fuctions by firstly recording the Matlab code in the GUI of Quickplot.<br/>
+* Quickplot of D3D has lot of functions which I did not know before, however, I got familiar with thoes functions by firstly recording the Matlab code in the GUI of Quickplot.<br/>
 
 ## Extracting the shoreline
 Then I used the [Matlab code](https://github.com/weilungao/ShorelineExtraction) to extract the shoreline:<br/>
