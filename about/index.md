@@ -15,6 +15,7 @@ Dr. Gao obtained his Ph.D. in Beijing Normal University, Beijing, where he inves
 
 ## Grants
 - Fellowship of China Postdoctoral Science Foundation (Grant 2020M680438)
+- Young Scientists Fund of National Natural Science Foundation of China (Grant 52101297)
 
 ## Honors/Awards
 - Outstanding Presentation Award, Young Scientist Forum, China Association for Science and Technology, 2018, Jiyuan
@@ -24,7 +25,7 @@ Dr. Gao obtained his Ph.D. in Beijing Normal University, Beijing, where he inves
 See the category [here](https://weilungao.github.io/category/#/Publication)
 
 ## Contact
-- Email: wl.gao@mail.bnu.edu.cn
+- Email: wl.gao at mail.bnu.edu.cn
 - Also see me at [ResearchGate](https://www.researchgate.net/profile/Weilun_Gao2)
 
 ## Group members
