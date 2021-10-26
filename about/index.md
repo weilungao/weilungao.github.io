@@ -20,6 +20,7 @@ Dr. Gao obtained his Ph.D. in Beijing Normal University, Beijing, where he inves
 ## Honors/Awards
 - Outstanding Presentation Award, Young Scientist Forum, China Association for Science and Technology, 2018, Jiyuan
 - Outstanding Presentation Award, National Postdoctoral Forum, China Postdoctoral System, 2020, Xinxiang
+- Best Oral Presentation Award, International Symposium on COstal Resources and Environment (CORE 2021), 2021, Nanjing
 
 ## Publications
 See the category [here](https://weilungao.github.io/category/#/Publication)
