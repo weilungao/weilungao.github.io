@@ -8,7 +8,7 @@ categories:
 # Weilun Gao
 ## Bio
 Dr. Gao obtained his Ph.D. in Beijing Normal University, Beijing, where he investigated the combined effects of human-induced variability of river discharges and wave conditions on the morphological evolution of river deltas. He is currently doing his postdoc at Beijing Normal University, Zhuhai, focusing on the research topic of ecogeomorphology. He uses both sophisticated and simplified models to understand and explore the morphological evolution of river deltas at different spatiotemporal scales.
-He now serves as the Chairman of the Academic Clube of Postdocs, Beijing Normal University at Zhuhai. 
+He now serves as the Chairman of the Academic Club of Postdocs, Beijing Normal University at Zhuhai. 
 
 ## Education
 - Beijing Normal University, 2020, Ph.D., Environmental Science 
