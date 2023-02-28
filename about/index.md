@@ -30,8 +30,8 @@ See the category [here](https://weilungao.github.io/category/#/Publication)
 - Also see me at [ResearchGate](https://www.researchgate.net/profile/Weilun_Gao2)
 
 ## Group members
-- Wangye Tang, undergraduate student
-- Yan Liu, undergraduate student
+- Wangye Tang, undergraduate student (2020.11-2022.06)
+- Yan Liu, undergraduate student (2020.11-2022.06)
 
 
 
