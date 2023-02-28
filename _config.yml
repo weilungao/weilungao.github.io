@@ -218,7 +218,7 @@ font:
 social:
   #LinkLabel: Link
   ResearchGate: https://www.researchgate.net/profile/Weilun_Gao2
-  BNUZ: https://zkgyy.bnu.edu.cn/yjjg/lyhjstgcyfzx/rcdw4/lybsh/103057.htm
+  GDUT: https://seer.gdut.edu.cn
 
 
 # Social Links Icons
@@ -234,7 +234,7 @@ social_icons:
   Twitter: twitter
   Weibo: weibo
   #ResearchGate: researchgate
-  BNUZ: university
+  GDUT: university
 
 
 # Sidebar Avatar
