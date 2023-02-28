@@ -25,6 +25,9 @@ Dr. Gao obtained his Ph.D. in Beijing Normal University, Beijing, where he inves
 ## Publications
 See the category [here](https://weilungao.github.io/category/#/Publication)
 
+## Other activities
+- Chairman of the Academic Club of Postdocs, Beijing Normal University at Zhuhai, 2022
+
 ## Contact
 - Email: wl.gao at mail.bnu.edu.cn
 - Also see me at [ResearchGate](https://www.researchgate.net/profile/Weilun_Gao2)
