@@ -27,6 +27,7 @@ See the category [here](https://weilungao.github.io/category/#/Publication)
 
 ## Other activities
 - Chairman of the Academic Club of Postdocs, Beijing Normal University at Zhuhai, 2022
+- Visiting student, University of Maryland Center for Environmental Science, 2019
 
 ## Contact
 - Email: wl.gao at mail.bnu.edu.cn
