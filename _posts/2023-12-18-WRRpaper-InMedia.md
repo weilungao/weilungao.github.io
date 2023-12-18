@@ -7,7 +7,8 @@ tags:
 - 中文（in Chinese）
 ---
 
-Reported by Hydro90 
+Our paper was reported by [Hydro90](https://mp.weixin.qq.com/s/Tb3PN8Y4dpvNSRAfWhPCAw).
 
-https://mp.weixin.qq.com/s/Tb3PN8Y4dpvNSRAfWhPCAw
+Weilun Gao, Zheng Bing Wang, Maarten G. Kleinhans, Chiyuan Miao, Baoshan Cui, Dongdong Shao (2023). "Floodplain Connecting Channels as Critical Paths for Hydrological Connectivity of Deltaic River Networks." Water Resources Research, 59(4): e2022WR033714. 
+
 
