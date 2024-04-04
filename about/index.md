@@ -30,10 +30,11 @@ See the category [here](https://weilungao.github.io/category/#/Publication)
 - Visiting student, University of Maryland Center for Environmental Science, 2019
 
 ## Contact
-- Email: wl.gao at mail.bnu.edu.cn
+- Email: wl.gao at gdut.edu.cn
 - Also see me at [ResearchGate](https://www.researchgate.net/profile/Weilun_Gao2)
 
 ## Group members
+- Junjie Chen, master student (2023.09-present)
 - Wangye Tang, undergraduate student (2020.11-2022.06)
 - Yan Liu, undergraduate student (2020.11-2022.06)
 
