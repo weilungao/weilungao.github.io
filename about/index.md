@@ -34,6 +34,8 @@ See the category [here](https://weilungao.github.io/category/#/Publication)
 - Also see me at [ResearchGate](https://www.researchgate.net/profile/Weilun_Gao2)
 
 ## Group members
+- Jinlu Meng, master student (2024.09-present)
+- Qian Zhou, master student (2024.09-present)
 - Junjie Chen, master student (2023.09-present)
 - Wangye Tang, undergraduate student (2020.11-2022.06)
 - Yan Liu, undergraduate student (2020.11-2022.06)
